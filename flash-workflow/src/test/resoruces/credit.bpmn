@@ -75,7 +75,7 @@
         <bpmndi:BPMNLabel>
           <omgdc:Bounds height="0.0" width="0.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
-      </bpmndi:BPMNEdge>
+      </bpmndi:BPMNEdge> 
       <bpmndi:BPMNEdge bpmnElement="_11" id="BPMNEdge__11" sourceElement="_10" targetElement="_5">
         <omgdi:waypoint x="307.0" y="131.0"/>
         <omgdi:waypoint x="405.0" y="292.5"/>
